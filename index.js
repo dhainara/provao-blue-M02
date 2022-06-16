@@ -23,7 +23,7 @@ app.listen(port, () => {
 const tarefas = [
     {
         id: 1,
-        nome_tarefa: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        nome_tarefa: "Fazer faxina",
     }, {
         id: 2,
         nome_tarefa: "Fazer comida",
